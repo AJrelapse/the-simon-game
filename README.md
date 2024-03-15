@@ -12,4 +12,4 @@ The Behaviour was developed by JavaScript.
 Infinite Levels....
 
 ## Shortened Link
-Web URL : 
+Web URL : https://ajrelapse.github.io/the-simon-game/
